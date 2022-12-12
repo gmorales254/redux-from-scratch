@@ -1,0 +1,16 @@
+{
+  "name": "redux-from-scratch",
+  "version": "1.0.0",
+  "description": "just a mini tempalte for news implementations in redux vanilla js.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux",
+    "reduxjs",
+    "vanillajs"
+  ],
+  "author": "gmorales254",
+  "license": "MIT"
+}
